@@ -1,0 +1,45 @@
+h1 {
+  color: #233714;
+  text-align: justify;
+  text-transform: none;
+  text-shadow: 0.1rem 0.1rem 0.2rem #233714;
+}
+
+h2,
+h3 {
+  color: #233714;
+  text-align: justify;
+  text-decoration: underline;
+}
+body {
+  background-color: #e6f8f9;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #233714;
+  width: 10%;
+  border-width: 0.4em;
+}
+a{
+    color:#1684a7;
+}
+a:hover{
+    color:#388e3c;
+}
+
+img{
+  border-radius: 100%;
+}
+
+img:hover{
+  border-radius: 5%;
+}
+
+h3:hover{
+  text-shadow: .02em .02em .75em rgb(127, 148, 127);
+}
+
+h2:hover{
+  text-shadow: .02em .02em .75em rgb(127, 148, 127);
+}
